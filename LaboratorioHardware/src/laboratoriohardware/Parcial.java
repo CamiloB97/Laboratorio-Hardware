@@ -12,6 +12,7 @@ package laboratoriohardware;
 public class Parcial {
     public void Parcial1(){
         
+        
     }
     
 }
